@@ -12,7 +12,7 @@ const [sotoFriend,lastFriend, akherFriend] = Friends;
 console.log(sotoFriend , ...lastFriend,...akherFriend) ;
 const complexObject = {
     name = "mohammad",
-    info:{
+    info: {
         address = 'bangladesh',
         leader = "tigar man"
     }
